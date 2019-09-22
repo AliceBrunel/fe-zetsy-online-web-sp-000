@@ -42,7 +42,7 @@ h2 {
 
 #press img {
   border: solid;
-  border-width: 3px;
+  border-width: 5px;
   color: transparent;
   margin: 2px;
 }
@@ -54,7 +54,7 @@ h2 {
 
 #press img:hover {
   border: solid;
-  border-width: 3px;
+  border-width: 5px;
   color: rgb(152,173,166);
 }
 
