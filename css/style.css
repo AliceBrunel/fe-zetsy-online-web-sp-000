@@ -40,6 +40,10 @@ h2 {
   height: 200px;
 }
 
+#press > img {
+  padding: 5px;
+}
+
 .featured-image {
   border: solid;
   border-color: rgb(152,173,166);
