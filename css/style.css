@@ -44,7 +44,9 @@ h2 {
   text-align: right;
 }
 
-
+.featured-image {
+  color: rgb(152,173,166);
+}
 
 img:hover {
   border: solid;
