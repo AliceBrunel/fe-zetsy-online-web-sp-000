@@ -42,7 +42,7 @@ h2 {
 
 #press > img {
   border: solid;
-  bor
+  border-width: 2px;
   color: transparent;
   margin: 5px;
 }
