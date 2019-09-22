@@ -36,15 +36,7 @@ h2 {
 	color: rgb(111,127,122);
 }
 
-.logos {
-  text-align: center;
-  height: 200px;
-}
-
-.logos > a {
-  padding: 1px;
-  margin: 1px;
-}
+#press
 
 .featured-image {
   border: solid;
