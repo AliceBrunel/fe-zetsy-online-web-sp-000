@@ -41,7 +41,6 @@ h2 {
 }
 
 .logos > a {
-  margin: 5px;
 }
 
 #credits {
@@ -56,4 +55,5 @@ h2 {
 img:hover {
   border: solid;
   color: rgb(152,173,166);
+  padding: 1px;
 }
