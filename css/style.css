@@ -36,9 +36,12 @@ h2 {
 	color: rgb(111,127,122);
 }
 
-.logos > a {
+.logos {
   text-align: center;
-  margin: 2px;
+}
+
+.logos > a {
+  margin: 12px;
 }
 
 #credits {
