@@ -41,7 +41,7 @@ h2 {
   height: 200px;
 }
 
-a {
+.logos > a {
   padding: 5px;
   margin: 5px;
 }
