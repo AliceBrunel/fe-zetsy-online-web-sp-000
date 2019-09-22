@@ -41,10 +41,6 @@ h2 {
   height: 200px;
 }
 
-#credits {
-  text-align: right;
-}
-
 .featured-image {
   border: solid;
   border-color: rgb(152,173,166);
@@ -54,4 +50,7 @@ img:hover {
   border: solid;
   color: rgb(152,173,166);
   padding: 1px;
+}
+#credits {
+  text-align: right;
 }
