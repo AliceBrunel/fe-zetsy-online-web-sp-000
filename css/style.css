@@ -36,7 +36,7 @@ h2 {
 	color: rgb(111,127,122);
 }
 
-a.logos {
+.logos > a {
   text-align: center;
   margin: 2px;
 }
