@@ -36,7 +36,9 @@ h2 {
 	color: rgb(111,127,122);
 }
 
-#press
+#press {
+  padding: 5px;
+}
 
 .featured-image {
   border: solid;
