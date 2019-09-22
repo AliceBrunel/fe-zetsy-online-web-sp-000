@@ -40,7 +40,9 @@ h2 {
   height: 200px;
 }
 
-#press > a {
+#press > img {
+  border: solid;
+  color: transparent;
   margin: 5px;
 }
 
