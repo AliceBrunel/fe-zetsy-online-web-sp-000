@@ -41,6 +41,11 @@ h2 {
   height: 200px;
 }
 
+a {
+  padding: 5px;
+  margin: 5px;
+}
+
 .featured-image {
   border: solid;
   border-color: rgb(152,173,166);
@@ -51,6 +56,7 @@ img:hover {
   color: rgb(152,173,166);
   padding: 1px;
 }
+
 #credits {
   text-align: right;
 }
