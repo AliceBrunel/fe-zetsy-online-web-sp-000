@@ -48,6 +48,7 @@ h2 {
 .featured-image {
   border: solid;
   border-color: rgb(152,173,166);
+  padding: 5px;
 }
 
 img:hover {
