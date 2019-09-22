@@ -45,7 +45,7 @@ h2 {
 }
 
 .featured-image {
-  color: rgb(152,173,166);
+  border-color: rgb(152,173,166);
 }
 
 img:hover {
